@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Jijneshjiju
-- 👀 I’m interested in web Dovloping
+- 👋 Hi, I’m @M.Jijnash kumar
+- 👀 I’m interested in web Development
 - 🌱 I’m currently learning c language
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me mail(jijnashkumar@gmail.com) 
